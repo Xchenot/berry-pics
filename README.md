@@ -8,7 +8,9 @@ Display pics on a digital photo frame.
 ## Materials
 
 [Picture frame](https://www.amazon.fr/gp/product/B07X9QLZ5N/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+
 [Raspberry Pi Zero W](https://www.kubii.fr/)
+
 [display 7"](https://www.kubii.fr/)
 
 ## Prerequisites
